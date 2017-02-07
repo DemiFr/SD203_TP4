@@ -1,0 +1,6 @@
+echo "git upload"
+git add *
+git commit -m "Committed at dd-02-2017"
+git push
+
+echo "Done"
